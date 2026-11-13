@@ -78,7 +78,7 @@ button:hover {
   padding: 10px 48px;
   display: flex;
   justify-content: space-between;
-  font-size: 11px;
+  font-size: 13px;
   letter-spacing: 0.3px;
 }
 .announcement span:last-child {
@@ -133,7 +133,7 @@ header {
   background: none;
   outline: none;
   width: 100%;
-  font-size: 12px;
+  font-size: 14px;
   color: #242c3d;
 }
 .search kbd {
@@ -146,7 +146,7 @@ header {
   gap: 10px;
 }
 .location span {
-  font-size: 10px;
+  font-size: 12px;
   color: #737b8a;
 }
 .location strong {
@@ -154,7 +154,7 @@ header {
   align-items: center;
   gap: 7px;
   color: #27334b;
-  font-size: 11px;
+  font-size: 13px;
   margin-top: 4px;
 }
 .header-actions {
@@ -174,7 +174,7 @@ header {
   border: 2px solid white;
   color: #fff;
   border-radius: 100%;
-  font-size: 9px;
+  font-size: 11px;
   min-width: 18px;
   height: 18px;
   display: grid;
@@ -190,7 +190,7 @@ nav {
   height: 51px;
 }
 nav button {
-  font-size: 11px;
+  font-size: 13px;
   white-space: nowrap;
   display: flex;
   align-items: center;
@@ -232,7 +232,7 @@ main {
   align-items: flex-start;
 }
 .eyebrow {
-  font-size: 9px;
+  font-size: 11px;
   letter-spacing: 1.6px;
   font-weight: 650;
   display: inline-flex;
@@ -257,7 +257,7 @@ main {
   color: #b8d0ff;
 }
 .hero p {
-  font-size: 12px;
+  font-size: 14px;
   color: #d8e3ff;
   line-height: 1.9;
   margin-bottom: 25px;
@@ -269,7 +269,7 @@ main {
   display: inline-flex;
   align-items: center;
   gap: 24px;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 700;
   padding: 14px 20px;
 }
@@ -286,7 +286,7 @@ main {
   align-self: stretch;
 }
 .hero-bottom > span {
-  font-size: 7px;
+  font-size: 9px;
   letter-spacing: 1.2px;
   color: #b9ccff;
 }
@@ -334,7 +334,7 @@ main {
   position: absolute;
   right: 24px;
   top: 31px;
-  font-size: 10px;
+  font-size: 12px;
   letter-spacing: 3px;
   text-align: right;
   line-height: 1.8;
@@ -375,11 +375,11 @@ main {
 .floating-label span {
   display: block;
   color: #8690a3;
-  font-size: 8px;
+  font-size: 10px;
   margin-bottom: 5px;
 }
 .floating-label strong {
-  font-size: 10px;
+  font-size: 12px;
   display: flex;
   gap: 17px;
   align-items: center;
@@ -388,7 +388,7 @@ main {
   position: absolute;
   bottom: 20px;
   right: 22px;
-  font-size: 9px;
+  font-size: 11px;
   letter-spacing: 2px;
   color: #bacbff;
   z-index: 3;
@@ -423,12 +423,12 @@ main {
   display: block;
 }
 .benefits strong {
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 600;
   margin-bottom: 5px;
 }
 .benefits small {
-  font-size: 9px;
+  font-size: 11px;
   color: #868d99;
 }
 .categories {
@@ -451,7 +451,7 @@ h2 {
   margin: 9px 0 0;
 }
 .text-button {
-  font-size: 11px;
+  font-size: 13px;
   color: var(--blue);
   display: flex;
   gap: 15px;
@@ -474,7 +474,7 @@ h2 {
   min-width: 0;
 }
 .category-grid strong {
-  font-size: 10px;
+  font-size: 12px;
   white-space: nowrap;
   font-weight: 550;
 }
@@ -518,7 +518,7 @@ h2 {
   padding: 0 0 38px;
 }
 .catalog-note {
-  font-size: 9px;
+  font-size: 11px;
   color: #7f8899;
   background: #f6f7f9;
   padding: 7px 10px;
@@ -538,7 +538,7 @@ h2 {
   flex-wrap: wrap;
 }
 .tabs button {
-  font-size: 10px;
+  font-size: 12px;
   color: #6f7887;
   padding: 9px 14px;
   border-radius: 4px;
@@ -548,7 +548,7 @@ h2 {
   background: var(--blue);
 }
 .sort {
-  font-size: 10px;
+  font-size: 12px;
   color: #87909f;
   white-space: nowrap;
   display: flex;
@@ -556,7 +556,7 @@ h2 {
   gap: 8px;
 }
 .sort select {
-  font-size: 10px;
+  font-size: 12px;
   font-weight: 600;
   color: #343f52;
   background: transparent;
@@ -564,7 +564,7 @@ h2 {
   max-width: 130px;
 }
 .data-notice {
-  font-size: 9px;
+  font-size: 11px;
   color: #8b929e;
   padding: 11px 0 18px;
   display: flex;
@@ -637,7 +637,7 @@ h2 {
   position: absolute;
   top: 14px;
   left: 13px;
-  font-size: 9px;
+  font-size: 11px;
   font-weight: 600;
   color: #256843;
   background: #e7f2e9;
@@ -651,7 +651,7 @@ h2 {
 .product-category {
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 7px;
+  font-size: 9px;
   color: #929ba8;
 }
 .product-title {
@@ -661,14 +661,14 @@ h2 {
   overflow: hidden;
   padding: 0;
   text-align: left;
-  height: 37px;
+  height: 3em;
   line-height: 1.5;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 550;
   margin: 6px 0;
 }
 .rating {
-  font-size: 9px;
+  font-size: 11px;
   color: #495568;
   display: block;
   margin: 8px 0 13px;
@@ -678,12 +678,12 @@ h2 {
   margin-right: 3px;
 }
 .rating small {
-  font-size: 8px;
+  font-size: 10px;
   color: #949aa6;
   margin-left: 3px;
 }
 del {
-  font-size: 9px;
+  font-size: 11px;
   color: #a0a6b0;
   display: block;
   height: 14px;
@@ -696,7 +696,7 @@ del {
   margin: 3px 0 5px;
 }
 .installment {
-  font-size: 8px;
+  font-size: 10px;
   color: #8a909a;
   white-space: nowrap;
   margin-bottom: 15px;
@@ -712,7 +712,7 @@ del {
   justify-content: space-between;
 }
 .product-bottom > span {
-  font-size: 8px;
+  font-size: 10px;
   color: #4f799b;
 }
 .product-bottom button {
@@ -736,7 +736,7 @@ del {
   align-items: center;
   justify-content: center;
   gap: 12px;
-  font-size: 10px;
+  font-size: 12px;
   margin: 28px auto 0;
   color: #536079;
 }
@@ -757,7 +757,7 @@ del {
   color: white;
 }
 .card-banner .eyebrow {
-  font-size: 8px;
+  font-size: 10px;
   color: #afc5ff;
 }
 .card-banner h2 {
@@ -767,14 +767,14 @@ del {
   margin: 13px 0;
 }
 .card-banner p {
-  font-size: 10px;
+  font-size: 12px;
   color: #c0d0fa;
   line-height: 1.8;
   margin-bottom: 19px;
 }
 .card-banner .white-button {
   padding: 11px 17px;
-  font-size: 10px;
+  font-size: 12px;
   gap: 25px;
 }
 .credit-card {
@@ -820,7 +820,7 @@ del {
   font-weight: 400;
 }
 .credit-card div > span {
-  font-size: 8px;
+  font-size: 10px;
   opacity: 0.65;
 }
 .credit-card .chip {
@@ -841,7 +841,7 @@ del {
   margin-bottom: 17px;
 }
 .credit-card small {
-  font-size: 6px;
+  font-size: 8px;
   letter-spacing: 1.1px;
   color: #b8ccf2;
 }
@@ -883,7 +883,7 @@ del {
   margin: 0 0 6px;
 }
 .closing p {
-  font-size: 10px;
+  font-size: 12px;
   color: #8a92a0;
   margin: 0;
 }
@@ -904,18 +904,18 @@ footer {
   font-size: 26px;
 }
 .footer-main p {
-  font-size: 10px;
+  font-size: 12px;
   color: #87909e;
   margin: 10px 0 0;
 }
 .footer-main > div > strong {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   margin: 6px 0 15px;
 }
 .footer-main > div > button:not(.brand) {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   color: #7e8898;
   padding: 0;
   margin: 0 0 10px;
@@ -937,7 +937,7 @@ footer {
   gap: 16px;
   justify-content: space-between;
   color: #9aa1af;
-  font-size: 8px;
+  font-size: 10px;
 }
 .toast {
   position: fixed;
@@ -952,7 +952,7 @@ footer {
   display: flex;
   align-items: center;
   gap: 12px;
-  font-size: 12px;
+  font-size: 14px;
   z-index: 100;
   max-width: 90vw;
   width: max-content;
@@ -1004,18 +1004,18 @@ footer {
 }
 .modal p {
   color: #7a8495;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.9;
 }
 .modal small {
   display: block;
-  font-size: 10px;
+  font-size: 12px;
   color: #919aab;
   line-height: 1.7;
   margin-top: 16px;
 }
 .field {
-  font-size: 12px;
+  font-size: 14px;
   display: block;
   margin: 24px 0 17px;
   color: #526078;
@@ -1034,7 +1034,7 @@ footer {
   color: #fff;
   padding: 14px 20px;
   border-radius: 5px;
-  font-size: 12px;
+  font-size: 14px;
   display: flex;
   gap: 10px;
   align-items: center;
@@ -1088,7 +1088,7 @@ footer {
   margin: 20px 0 8px;
 }
 .empty p {
-  font-size: 12px;
+  font-size: 14px;
 }
 .empty .primary {
   margin: 20px auto 0;
@@ -1114,12 +1114,12 @@ footer {
   flex: 1;
 }
 .cart-item strong {
-  font-size: 12px;
+  font-size: 14px;
   display: block;
   margin: 2px 0 8px;
 }
 .cart-item span {
-  font-size: 12px;
+  font-size: 14px;
   color: #687a96;
 }
 .quantity {
@@ -1141,7 +1141,7 @@ footer {
   border: 0;
   margin-left: auto;
   color: #9b7e7e;
-  font-size: 10px;
+  font-size: 12px;
 }
 .cart-summary {
   margin-top: 25px;
@@ -1150,7 +1150,7 @@ footer {
 .cart-summary h3 {
   display: flex;
   justify-content: space-between;
-  font-size: 12px;
+  font-size: 14px;
 }
 .cart-summary h3 {
   padding: 20px 0 10px;
@@ -1225,7 +1225,7 @@ footer {
     gap: 20px;
   }
   nav button {
-    font-size: 10px;
+    font-size: 12px;
   }
   .hero h1 {
     font-size: 43px;
@@ -1245,17 +1245,17 @@ footer {
     padding-left: 10px;
   }
   .benefits strong {
-    font-size: 10px;
+    font-size: 12px;
   }
   .benefits small {
-    font-size: 8px;
+    font-size: 10px;
   }
   .category-grid > button {
     gap: 8px;
     padding: 12px 8px;
   }
   .category-grid strong {
-    font-size: 9px;
+    font-size: 11px;
   }
   .category-icon {
     width: 35px;
@@ -1290,10 +1290,10 @@ footer {
     gap: 15px;
   }
   .hero-bottom > span {
-    font-size: 6px;
+    font-size: 8px;
   }
   .sort {
-    font-size: 9px;
+    font-size: 11px;
   }
   .tabs button {
     padding: 8px 10px;
@@ -1305,10 +1305,10 @@ footer {
   }
   .announcement {
     padding: 9px 16px;
-    font-size: 9px;
+    font-size: 11px;
   }
   .announcement span:last-child {
-    font-size: 8px;
+    font-size: 10px;
   }
   .header-main {
     height: auto;
@@ -1330,7 +1330,7 @@ footer {
     height: 43px;
   }
   .search input {
-    font-size: 12px;
+    font-size: 14px;
   }
   nav {
     overflow: auto;
@@ -1339,7 +1339,7 @@ footer {
     scrollbar-width: none;
   }
   nav button {
-    font-size: 10px;
+    font-size: 12px;
   }
   nav button:first-child {
     padding-right: 15px;
@@ -1358,7 +1358,7 @@ footer {
     padding: 28px 0 22px 23px;
   }
   .hero .eyebrow {
-    font-size: 6px;
+    font-size: 8px;
     letter-spacing: 1px;
     white-space: nowrap;
   }
@@ -1368,7 +1368,7 @@ footer {
     margin: 26px 0 14px;
   }
   .hero p {
-    font-size: 10px;
+    font-size: 12px;
     line-height: 1.8;
     max-width: 220px;
   }
@@ -1376,7 +1376,7 @@ footer {
     display: none;
   }
   .white-button {
-    font-size: 10px;
+    font-size: 12px;
     padding: 12px 13px;
     gap: 12px;
   }
@@ -1392,7 +1392,7 @@ footer {
     object-fit: cover;
   }
   .art-label {
-    font-size: 7px;
+    font-size: 9px;
     right: 13px;
     top: 25px;
     letter-spacing: 1.5px;
@@ -1416,14 +1416,14 @@ footer {
     padding-top: 36px;
   }
   .hero-bottom > span {
-    font-size: 5px;
+    font-size: 7px;
     letter-spacing: 0.7px;
   }
   .hero-bottom .dots {
     display: none;
   }
   .hero-number {
-    font-size: 7px;
+    font-size: 9px;
   }
   .benefits {
     grid-template-columns: 1fr 1fr;
@@ -1439,16 +1439,16 @@ footer {
     width: 21px;
   }
   .benefits strong {
-    font-size: 10px;
+    font-size: 12px;
   }
   .benefits small {
-    font-size: 8px;
+    font-size: 10px;
   }
   .categories {
     padding: 29px 0;
   }
   .eyebrow {
-    font-size: 7px;
+    font-size: 9px;
     letter-spacing: 1.2px;
   }
   h2 {
@@ -1460,7 +1460,7 @@ footer {
     gap: 8px;
   }
   .text-button {
-    font-size: 9px;
+    font-size: 11px;
     gap: 8px;
     white-space: nowrap;
   }
@@ -1477,7 +1477,7 @@ footer {
     text-align: center;
   }
   .category-grid strong {
-    font-size: 9px;
+    font-size: 11px;
   }
   .category-icon {
     width: 42px;
@@ -1487,7 +1487,7 @@ footer {
     width: 28px;
   }
   .catalog-note {
-    font-size: 7px;
+    font-size: 9px;
     padding: 5px;
     white-space: nowrap;
   }
@@ -1500,14 +1500,14 @@ footer {
     gap: 2px;
   }
   .tabs button {
-    font-size: 9px;
+    font-size: 11px;
     padding: 8px 9px;
   }
   .sort {
     align-self: flex-end;
   }
   .data-notice {
-    font-size: 8px;
+    font-size: 10px;
     line-height: 1.6;
     padding: 10px 0 13px;
   }
@@ -1523,29 +1523,29 @@ footer {
     padding: 13px 12px 10px;
   }
   .product-title {
-    font-size: 11px;
-    height: 34px;
+    font-size: 13px;
+    height: 3em;
   }
   .product-category {
-    font-size: 6px;
+    font-size: 8px;
     letter-spacing: 0.7px;
   }
   .rating {
-    font-size: 8px;
+    font-size: 10px;
   }
   .rating small {
-    font-size: 7px;
+    font-size: 9px;
   }
   .price {
     font-size: 21px;
   }
   .installment {
-    font-size: 7px;
+    font-size: 9px;
     white-space: normal;
     line-height: 1.6;
   }
   .product-bottom > span {
-    font-size: 7px;
+    font-size: 9px;
   }
   .favorite {
     right: 8px;
@@ -1554,7 +1554,7 @@ footer {
     height: 26px;
   }
   .discount {
-    font-size: 8px;
+    font-size: 10px;
     left: 8px;
     top: 10px;
   }
@@ -1567,7 +1567,7 @@ footer {
     font-size: 28px;
   }
   .card-banner p {
-    font-size: 10px;
+    font-size: 12px;
   }
   .credit-card {
     margin: 35px auto 5px;
@@ -1585,7 +1585,7 @@ footer {
     height: 22px;
   }
   .credit-card .card-digits {
-    font-size: 10px;
+    font-size: 12px;
     margin-bottom: 13px;
   }
   .credit-card b {
@@ -1606,7 +1606,7 @@ footer {
     font-size: 13px;
   }
   .closing p {
-    font-size: 9px;
+    font-size: 11px;
     line-height: 1.7;
   }
   .closing > div {
@@ -1637,7 +1637,7 @@ footer {
   .footer-bottom {
     flex-direction: column;
     gap: 9px;
-    font-size: 8px;
+    font-size: 10px;
     line-height: 1.6;
   }
   .modal {
@@ -1665,7 +1665,7 @@ footer {
     width: 100%;
   }
   .toast {
-    font-size: 11px;
+    font-size: 13px;
     padding: 14px 16px;
     bottom: 17px;
   }
