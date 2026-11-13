@@ -1,3 +1,4 @@
+import { matchesSearch } from "./lib/search";
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   Search,
@@ -153,9 +154,7 @@ export default function App() {
         (category === "all" || groupOf(p.category) === category) &&
         (!onlyFavorites || favorites.includes(p.id)) &&
         (!offers || p.discountPercentage >= 15) &&
-        `${p.title} ${p.brand || ""} ${p.category} ${groups.find((g) => g.id === groupOf(p.category))?.label}`
-          .toLowerCase()
-          .includes(query.toLowerCase()),
+        matchesSearch(p, query),
     );
     if (sort === "price-up") list.sort((a, b) => a.price - b.price);
     if (sort === "price-down") list.sort((a, b) => b.price - a.price);
@@ -246,6 +245,9 @@ export default function App() {
               value={query}
               onChange={(e) => {
                 setQuery(e.target.value);
+                setCategory("all");
+                setOnlyFavorites(false);
+                setOffers(false);
                 document
                   .getElementById("catalogo")
                   ?.scrollIntoView({ behavior: "smooth" });
@@ -462,6 +464,13 @@ export default function App() {
             </label>
           </div>
           <div className="data-notice">
+            <span aria-live="polite">
+              {filtered.length}{" "}
+              {filtered.length === 1
+                ? "produto encontrado"
+                : "produtos encontrados"}{" "}
+              ·{" "}
+            </span>
             {loading
               ? "Buscando novidades…"
               : offline

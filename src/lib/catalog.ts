@@ -34,7 +34,7 @@ export const fallbackProducts: Product[] = reserve.map((p) => ({
   price: Math.round(p.price * 5 * 100) / 100,
 }));
 export async function getCatalog(signal?: AbortSignal): Promise<Product[]> {
-  const response = await fetch("https://dummyjson.com/products?limit=194", {
+  const response = await fetch("https://dummyjson.com/products?limit=0", {
     signal,
   });
   if (!response.ok) throw new Error("Catálogo indisponível");
