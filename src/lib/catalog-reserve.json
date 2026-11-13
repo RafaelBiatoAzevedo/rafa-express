@@ -1,0 +1,698 @@
+[
+  {
+    "id": 8,
+    "title": "Dior J'adore",
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "category": "fragrances",
+    "price": 89.99,
+    "discountPercentage": 14.72,
+    "rating": 3.8,
+    "stock": 98,
+    "tags": ["fragrances", "perfumes"],
+    "brand": "Dior",
+    "sku": "FRA-DIO-DIO-008",
+    "weight": 4,
+    "dimensions": {
+      "width": 27.67,
+      "height": 28.28,
+      "depth": 11.83
+    },
+    "warrantyInformation": "1 week warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Great value for money!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Nicholas Bailey",
+        "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great value for money!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Penelope Harper",
+        "reviewerEmail": "penelope.harper@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great product!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Emma Miller",
+        "reviewerEmail": "emma.miller@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 10,
+    "meta": {
+      "createdAt": "2025-11-22T12:24:29.033Z",
+      "updatedAt": "2026-05-11T22:03:20.337Z",
+      "barcode": "1445086097250",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+  },
+  {
+    "id": 12,
+    "title": "Annibale Colombo Sofa",
+    "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+    "category": "furniture",
+    "price": 2499.99,
+    "discountPercentage": 14.4,
+    "rating": 3.92,
+    "stock": 60,
+    "tags": ["furniture", "sofas"],
+    "brand": "Annibale Colombo",
+    "sku": "FUR-ANN-ANN-012",
+    "weight": 6,
+    "dimensions": {
+      "width": 12.75,
+      "height": 20.55,
+      "depth": 19.06
+    },
+    "warrantyInformation": "Lifetime warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Very unhappy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Christian Perez",
+        "reviewerEmail": "christian.perez@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Fast shipping!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Lillian Bishop",
+        "reviewerEmail": "lillian.bishop@x.dummyjson.com"
+      },
+      {
+        "rating": 1,
+        "comment": "Poor quality!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Lillian Simmons",
+        "reviewerEmail": "lillian.simmons@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2024-10-15T17:11:42.387Z",
+      "updatedAt": "2025-05-26T20:53:48.329Z",
+      "barcode": "1777662847736",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/2.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/3.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
+  },
+  {
+    "id": 28,
+    "title": "Ice Cream",
+    "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+    "category": "groceries",
+    "price": 5.49,
+    "discountPercentage": 8.69,
+    "rating": 3.39,
+    "stock": 27,
+    "tags": ["desserts"],
+    "sku": "GRO-BRD-CRE-028",
+    "weight": 1,
+    "dimensions": {
+      "width": 14.83,
+      "height": 15.07,
+      "depth": 24.2
+    },
+    "warrantyInformation": "1 month warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very pleased!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Elijah Cruz",
+        "reviewerEmail": "elijah.cruz@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Jace Smith",
+        "reviewerEmail": "jace.smith@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Highly impressed!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Sadie Morales",
+        "reviewerEmail": "sadie.morales@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 42,
+    "meta": {
+      "createdAt": "2025-10-23T18:27:08.836Z",
+      "updatedAt": "2025-11-04T01:48:01.853Z",
+      "barcode": "0788954559076",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/1.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/2.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/3.webp",
+      "https://cdn.dummyjson.com/product-images/groceries/ice-cream/4.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp"
+  },
+  {
+    "id": 29,
+    "title": "Juice",
+    "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+    "category": "groceries",
+    "price": 3.99,
+    "discountPercentage": 12.06,
+    "rating": 3.94,
+    "stock": 50,
+    "tags": ["beverages"],
+    "sku": "GRO-BRD-JUI-029",
+    "weight": 1,
+    "dimensions": {
+      "width": 18.56,
+      "height": 21.46,
+      "depth": 28.02
+    },
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Nolan Gonzalez",
+        "reviewerEmail": "nolan.gonzalez@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Bella Grant",
+        "reviewerEmail": "bella.grant@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Awesome product!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Aria Flores",
+        "reviewerEmail": "aria.flores@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 25,
+    "meta": {
+      "createdAt": "2026-04-01T05:44:29.516Z",
+      "updatedAt": "2026-07-04T11:56:17.202Z",
+      "barcode": "6936112580956",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/juice/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp"
+  },
+  {
+    "id": 78,
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "category": "laptops",
+    "price": 1999.99,
+    "discountPercentage": 4.69,
+    "rating": 3.65,
+    "stock": 24,
+    "tags": ["laptops", "apple"],
+    "brand": "Apple",
+    "sku": "LAP-APP-APP-078",
+    "weight": 9,
+    "dimensions": {
+      "width": 20.03,
+      "height": 9.54,
+      "depth": 14.82
+    },
+    "warrantyInformation": "3 year warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Hazel Evans",
+        "reviewerEmail": "hazel.evans@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Christopher West",
+        "reviewerEmail": "christopher.west@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Very satisfied!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Aubrey Garcia",
+        "reviewerEmail": "aubrey.garcia@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "90 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2024-11-17T23:57:06.898Z",
+      "updatedAt": "2024-12-27T05:11:16.914Z",
+      "barcode": "5275211560367",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/2.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/3.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp"
+  },
+  {
+    "id": 99,
+    "title": "Amazon Echo Plus",
+    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "category": "mobile-accessories",
+    "price": 99.99,
+    "discountPercentage": 12.07,
+    "rating": 4.99,
+    "stock": 61,
+    "tags": ["electronics", "smart speakers"],
+    "brand": "Amazon",
+    "sku": "MOB-AMA-AMA-099",
+    "weight": 5,
+    "dimensions": {
+      "width": 12.68,
+      "height": 15.24,
+      "depth": 27.46
+    },
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 2,
+        "comment": "Would not recommend!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Chloe Morales",
+        "reviewerEmail": "chloe.morales@x.dummyjson.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Very disappointed!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Mateo Perez",
+        "reviewerEmail": "mateo.perez@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Evelyn Walker",
+        "reviewerEmail": "evelyn.walker@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 9,
+    "meta": {
+      "createdAt": "2025-07-15T21:49:36.407Z",
+      "updatedAt": "2026-02-23T20:47:50.249Z",
+      "barcode": "2256117192038",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/2.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp"
+  },
+  {
+    "id": 100,
+    "title": "Apple Airpods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "category": "mobile-accessories",
+    "price": 129.99,
+    "discountPercentage": 15.54,
+    "rating": 4.15,
+    "stock": 67,
+    "tags": ["electronics", "wireless earphones"],
+    "brand": "Apple",
+    "sku": "MOB-APP-APP-100",
+    "weight": 4,
+    "dimensions": {
+      "width": 25.79,
+      "height": 18.38,
+      "depth": 11.53
+    },
+    "warrantyInformation": "3 year warranty",
+    "shippingInformation": "Ships in 3-5 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Would not buy again!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Christopher West",
+        "reviewerEmail": "christopher.west@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great product!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Emma Wilson",
+        "reviewerEmail": "emma.wilson@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Excellent quality!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Xavier Wright",
+        "reviewerEmail": "xavier.wright@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 4,
+    "meta": {
+      "createdAt": "2026-04-25T02:22:32.254Z",
+      "updatedAt": "2026-06-19T06:19:34.587Z",
+      "barcode": "1104115683955",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/3.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
+  },
+  {
+    "id": 101,
+    "title": "Apple AirPods Max Silver",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+    "category": "mobile-accessories",
+    "price": 549.99,
+    "discountPercentage": 13.67,
+    "rating": 3.47,
+    "stock": 59,
+    "tags": ["electronics", "over-ear headphones"],
+    "brand": "Apple",
+    "sku": "MOB-APP-APP-101",
+    "weight": 2,
+    "dimensions": {
+      "width": 24.88,
+      "height": 14.9,
+      "depth": 27.54
+    },
+    "warrantyInformation": "No warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Excellent quality!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Henry Adams",
+        "reviewerEmail": "henry.adams@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Elijah Cruz",
+        "reviewerEmail": "elijah.cruz@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "William Lopez",
+        "reviewerEmail": "william.lopez@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2025-04-30T05:48:38.966Z",
+      "updatedAt": "2026-02-26T10:53:58.445Z",
+      "barcode": "4062176053732",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp"
+  },
+  {
+    "id": 106,
+    "title": "Apple Watch Series 4 Gold",
+    "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+    "category": "mobile-accessories",
+    "price": 349.99,
+    "discountPercentage": 12.02,
+    "rating": 2.74,
+    "stock": 33,
+    "tags": ["electronics", "smartwatches"],
+    "brand": "Apple",
+    "sku": "MOB-APP-APP-106",
+    "weight": 6,
+    "dimensions": {
+      "width": 27.69,
+      "height": 28.03,
+      "depth": 7.11
+    },
+    "warrantyInformation": "6 months warranty",
+    "shippingInformation": "Ships in 1 month",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 3,
+        "comment": "Very unhappy with my purchase!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Chloe Morales",
+        "reviewerEmail": "chloe.morales@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Fast shipping!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Ava Harrison",
+        "reviewerEmail": "ava.harrison@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "date": "2025-04-30T09:41:02.053Z",
+        "reviewerName": "Nicholas Bailey",
+        "reviewerEmail": "nicholas.bailey@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "No return policy",
+    "minimumOrderQuantity": 3,
+    "meta": {
+      "createdAt": "2025-08-16T21:47:45.110Z",
+      "updatedAt": "2026-06-23T09:55:05.261Z",
+      "barcode": "3921248718888",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/2.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/3.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp"
+  },
+  {
+    "id": 123,
+    "title": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro is a cutting-edge smartphone with a powerful camera system, high-performance chip, and stunning display. It offers advanced features for users who demand top-notch technology.",
+    "category": "smartphones",
+    "price": 1099.99,
+    "discountPercentage": 9.37,
+    "rating": 4.12,
+    "stock": 56,
+    "tags": ["smartphones", "apple"],
+    "brand": "Apple",
+    "sku": "SMA-APP-IPH-123",
+    "weight": 8,
+    "dimensions": {
+      "width": 12.63,
+      "height": 5.28,
+      "depth": 14.29
+    },
+    "warrantyInformation": "3 year warranty",
+    "shippingInformation": "Ships in 2 weeks",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Would buy again!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Christian Perez",
+        "reviewerEmail": "christian.perez@x.dummyjson.com"
+      },
+      {
+        "rating": 3,
+        "comment": "Not worth the price!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Liam Gonzalez",
+        "reviewerEmail": "liam.gonzalez@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Very satisfied!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Tristan Scott",
+        "reviewerEmail": "tristan.scott@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-02-09T13:45:29.822Z",
+      "updatedAt": "2026-08-11T06:31:30.971Z",
+      "barcode": "4998438802308",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/3.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp"
+  },
+  {
+    "id": 150,
+    "title": "Metal Baseball Bat",
+    "description": "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+    "category": "sports-accessories",
+    "price": 29.99,
+    "discountPercentage": 19.51,
+    "rating": 4.66,
+    "stock": 16,
+    "tags": ["sports equipment", "baseball"],
+    "sku": "SPO-BRD-MET-150",
+    "weight": 7,
+    "dimensions": {
+      "width": 28.43,
+      "height": 14.3,
+      "depth": 7.36
+    },
+    "warrantyInformation": "3 year warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Gabriel Bailey",
+        "reviewerEmail": "gabriel.bailey@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Great value for money!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Owen Fisher",
+        "reviewerEmail": "owen.fisher@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Would buy again!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Logan Lawson",
+        "reviewerEmail": "logan.lawson@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "60 days return policy",
+    "minimumOrderQuantity": 9,
+    "meta": {
+      "createdAt": "2024-10-13T02:11:46.025Z",
+      "updatedAt": "2025-11-07T11:41:55.271Z",
+      "barcode": "7296388268295",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp"
+  },
+  {
+    "id": 151,
+    "title": "Tennis Ball",
+    "description": "The Tennis Ball is a standard ball used in the sport of tennis. It is designed for bouncing and hitting with tennis rackets during matches or practice sessions.",
+    "category": "sports-accessories",
+    "price": 6.99,
+    "discountPercentage": 11.76,
+    "rating": 4.06,
+    "stock": 28,
+    "tags": ["sports equipment", "tennis"],
+    "sku": "SPO-BRD-TEN-151",
+    "weight": 3,
+    "dimensions": {
+      "width": 8.04,
+      "height": 20.35,
+      "depth": 12.24
+    },
+    "warrantyInformation": "5 year warranty",
+    "shippingInformation": "Ships in 1 week",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 4,
+        "comment": "Would buy again!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Addison Ward",
+        "reviewerEmail": "addison.ward@x.dummyjson.com"
+      },
+      {
+        "rating": 5,
+        "comment": "Great value for money!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Max Russell",
+        "reviewerEmail": "max.russell@x.dummyjson.com"
+      },
+      {
+        "rating": 4,
+        "comment": "Very happy with my purchase!",
+        "date": "2025-04-30T09:41:02.054Z",
+        "reviewerName": "Luna Perez",
+        "reviewerEmail": "luna.perez@x.dummyjson.com"
+      }
+    ],
+    "returnPolicy": "7 days return policy",
+    "minimumOrderQuantity": 6,
+    "meta": {
+      "createdAt": "2026-08-28T03:10:43.380Z",
+      "updatedAt": "2026-08-28T15:36:42.750Z",
+      "barcode": "2793132647969",
+      "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+    },
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"
+    ],
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/thumbnail.webp"
+  }
+]

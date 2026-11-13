@@ -1,0 +1,8 @@
+{
+  "short_name": "RafaExpress",
+  "name": "RafaExpress — Boas escolhas começam aqui",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1746d1",
+  "background_color": "#ffffff"
+}
